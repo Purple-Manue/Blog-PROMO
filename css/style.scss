@@ -1,0 +1,75 @@
+@import "colors";
+
+body {
+    font-family: Roboto, Open sans, sans-serif;
+    height:100%
+}
+
+#banniere {
+    color:$aformac;
+    height:175px;
+
+    .jumbotron {
+        background-color: unset;
+    }
+
+}
+
+#menu {
+    background-color: $aformac;
+    font-weight: 700;
+    a {
+        color:$clouds;
+    }
+    a:hover {
+        color:$nephritis;
+    }
+    button {
+        color:$clouds;
+    }
+}
+
+#caroussel {
+    color:$silver;
+    padding:1em 0;
+
+    .carousel-item {
+        padding: 4.5em 0;
+    }
+}
+
+.stagiaire {
+    text-align: center;
+    color:$concrete;
+    padding: 1em;
+
+    h2 {
+        font-size:0.9em;
+    }
+    h4 {
+        font-size:0.7em;
+    }
+    a {
+        font-size:0.8em;
+        color:$silver;
+        text-decoration:none;
+    }
+    a:hover {
+        color:$nephritis;
+    }
+}
+
+#main {
+    padding: 1em 0;
+}
+
+footer {
+    background-color: $aformac;
+    padding: 1em 0 0.5em 0;
+    color:$clouds;
+
+    iframe {
+        width:100%;
+        height:auto;
+    }
+}

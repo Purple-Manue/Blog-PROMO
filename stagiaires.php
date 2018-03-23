@@ -1,0 +1,109 @@
+<?php include "header.php"; ?>
+
+        <section id="main">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 col-md-4">
+                        <div class="row animated slideInLeft">
+                            <div class="stagiaire col-4">
+                                <img  class="visuel img-fluid" src="img/Tumbeasts.png" alt="avatar" class="img-fluid avatar" />
+                                <h2 class="nom">AUROJO Thomas</h2>
+                                <h4 class="age">???</h4>
+                                <a class="portfolio" href="#">Voir le portfolio</a>
+                            </div>
+                            <div class="stagiaire col-4">
+                                <img  class="visuel img-fluid" src="img/Tumbeasts.png" alt="avatar" class="img-fluid avatar" />
+                                <h2 class="nom">FOURMAUX Grégory</h2>
+                                <h4 class="age">33</h4>
+                                <a class="portfolio" href="#">Voir le portfolio</a>
+                            </div>
+                            <div class="stagiaire col-4">
+                                <img  class="visuel img-fluid" src="img/Tumbeasts.png" alt="avatar" class="img-fluid avatar" />
+                                <h2 class="nom">BOURGEOIS Florian</h2>
+                                <h4 class="age">???</h4>
+                                <a class="portfolio" href="#">Voir le portfolio</a>
+                            </div>
+                            <div class="stagiaire col-4">
+                                <img  class="visuel img-fluid" src="img/Tumbeasts.png" alt="avatar" class="img-fluid avatar" />
+                                <h2 class="nom">ENGBAKA-MOLEKA Michaël</h2>
+                                <h4 class="age">???</h4>
+                                <a class="portfolio" href="#">Voir le portfolio</a>
+                            </div>
+                            <div class="stagiaire col-4">
+                                <img  class="visuel img-fluid" src="img/Tumbeasts.png" alt="avatar" class="img-fluid avatar" />
+                                <h2 class="nom">ZIEGLER Stéphane</h2>
+                                <h4 class="age">???</h4>
+                                <a class="portfolio" href="#">Voir le portfolio</a>
+                            </div>
+                            <div class="stagiaire col-4">
+                                <img  class="visuel img-fluid" src="img/Tumbeasts.png" alt="avatar" class="img-fluid avatar" />
+                                <h2 class="nom">BOUNY Laëtitia</h2>
+                                <h4 class="age">???</h4>
+                                <a class="portfolio" href="#">Voir le portfolio</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-12 col-md-4">
+                        <div class="row animated zoomInDown">
+                            <div class="stagiaire col-12">
+                                <img  class="visuel img-fluid" src="img/Tumbeasts.png" alt="avatar" class="img-fluid avatar" />
+                                <p>Délégué de la promotion</p>
+                                <h2 class="nom">CARBONE Michel</h2>
+                                <h4 class="age">41</h4>
+                                <a class="portfolio" href="#">Voir le portfolio</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-12 col-md-4">
+                        <div class="row animated slideInRight">
+                            <div class="stagiaire col-4">
+                                <img  class="visuel img-fluid" src="img/Tumbeasts.png" alt="avatar" class="img-fluid avatar" />
+                                <h2 class="nom">GAULON Alexis</h2>
+                                <h4 class="age">???</h4>
+                                <a class="portfolio" href="#">Voir le portfolio</a>
+                            </div>
+                            <div class="stagiaire col-4">
+                                <img  class="visuel img-fluid" src="img/Tumbeasts.png" alt="avatar" class="img-fluid avatar" />
+                                <h2 class="nom">MARTINEZ Pascal</h2>
+                                <h4 class="age">???</h4>
+                                <a class="portfolio" href="#">Voir le portfolio</a>
+                            </div>
+                            <div class="stagiaire col-4">
+                                <img  class="visuel img-fluid" src="img/Tumbeasts.png" alt="avatar" class="img-fluid avatar" />
+                                <h2 class="nom">PORTIER Benjamin</h2>
+                                <h4 class="age">???</h4>
+                                <a class="portfolio" href="#">Voir le portfolio</a>
+                            </div>
+                            <div class="stagiaire col-4">
+                                <img  class="visuel img-fluid" src="img/Tumbeasts.png" alt="avatar" class="img-fluid avatar" />
+                                <h2 class="nom">DESPLATS Johan</h2>
+                                <h4 class="age">???</h4>
+                                <a class="portfolio" href="#">Voir le portfolio</a>
+                            </div>
+                            <div class="stagiaire col-4">
+                                <img  class="visuel img-fluid" src="img/Tumbeasts.png" alt="avatar" class="img-fluid avatar" />
+                                <h2 class="nom">RATSIMBA Christian</h2>
+                                <h4 class="age">32</h4>
+                                <a class="portfolio" href="#">Voir le portfolio</a>
+                            </div>
+                            <div class="stagiaire col-4">
+                                <img  class="visuel img-fluid" src="img/Tumbeasts.png" alt="avatar" class="img-fluid avatar" />
+                                <h2 class="nom">MEMBRIVE Emmanuelle</h2>
+                                <h4 class="age">???</h4>
+                                <a class="portfolio" href="#">Voir le portfolio</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12">
+                        <div class="row">
+
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+
+<?php include "footer.php"; ?>
