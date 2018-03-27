@@ -1,7 +1,7 @@
 <?php include "header.php"; ?>
 
         <section id="main">
-            <div class="container">
+            <div class="jumbotron container">
                 <div class="row">
                     <div class="col-12 col-md-4">
                         <div class="row animated slideInLeft">
@@ -44,11 +44,11 @@
                         </div>
                     </div>
 
-                    <div class="col-12 col-md-4">
+                    <div id="target" class="text-center col-12 col-md-4">
                         <div class="row animated zoomInDown">
-                            <div class="stagiaire col-12">
+                            <div class="stagiaire target col-12">
                                 <img  class="visuel img-fluid" src="img/Tumbeasts.png" alt="avatar" class="img-fluid avatar" />
-                                <p>Délégué de la promotion</p>
+
                                 <h2 class="nom">CARBONE Michel</h2>
                                 <h4 class="age">41</h4>
                                 <a class="portfolio" href="#">Voir le portfolio</a>
@@ -96,14 +96,17 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-12">
-                        <div class="row">
-
-                        </div>
-                    </div>
-
                 </div>
             </div>
         </section>
+
+      <div id="hidden" class="d-none">
+        <div class="container">
+          <div id="tmp">
+            <div id="tmp_roc"></div>
+            <div id="tmp_tar"></div>
+          </div>
+        </div>
+      </div>
 
 <?php include "footer.php"; ?>

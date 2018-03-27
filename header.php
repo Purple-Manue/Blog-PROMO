@@ -8,6 +8,10 @@
         <link rel="stylesheet" href="librairies/bootstrap/css/bootstrap.min.css">
         <link rel="stylesheet" href="librairies/animate.css">
         <link rel="stylesheet" href="css/style.min.css">
+        <link rel="stylesheet" href="librairies/rocket/rocket.css">
+        <script src="librairies/jquery/jquery.min.js"></script>
+        <script src="librairies/rocket/rocketPerso.js"></script>
+
         <title>Blog de la promo 404</title>
     </head>
 
@@ -16,10 +20,10 @@
         <section id="banniere">
             <div class="container">
                 <div class="row">
-                    <div class="col-2">
+                    <div class="col-2 d-flex align-items-center">
                         <img id="logo" class="img-fluid" src="img/Tumbeasts.png"/>
                     </div>
-                    <div class="jumbotron col-10">
+                    <div class="jumbotron col-10 text-center">
                         <h1>Blog de la promo 404</h1>
                     </div>
                 </div>
