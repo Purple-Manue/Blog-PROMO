@@ -38,7 +38,7 @@
                             <div class="stagiaire col-4">
                                 <img  class="visuel img-fluid" src="img/Tumbeasts.png" alt="avatar" class="img-fluid avatar" />
                                 <h2 class="nom">BOUNY Laëtitia</h2>
-                                <h4 class="age">???</h4>
+                                <h4 class="age">23</h4>
                                 <a class="portfolio" href="#">Voir le portfolio</a>
                             </div>
                         </div>
