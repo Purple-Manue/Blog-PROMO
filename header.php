@@ -4,15 +4,22 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+        <!-- CSS -->
         <link rel="stylesheet" href="librairies/fontawesome/web-fonts-with-css/css/fontawesome-all.min.css">
         <link rel="stylesheet" href="librairies/bootstrap/css/bootstrap.min.css">
         <link rel="stylesheet" href="librairies/animate.css">
-        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="css/style2.css">
         <link rel="stylesheet" href="librairies/rocket/rocket.min.css">
+
+        <!-- JS -->
         <script src="librairies/jquery/jquery.min.js"></script>
         <script src="librairies/rocket/rocketPerso.js"></script>
 
-        <title>Blog de la promo 404</title>
+        <!-- FONTS -->
+        <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
+
+        <title> Blog Promo Web Dev Aformac 2017-2018 </title>
     </head>
 
     <body>
