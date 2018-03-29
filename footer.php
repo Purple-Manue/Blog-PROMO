@@ -1,4 +1,4 @@
-        <footer>
+        <footer class="container-fluid">
             <div class="container">
                 <div class="row">
                     <div class="col-12 col-md-9">
@@ -15,9 +15,9 @@
             </div>
         </footer>
 
-        <script src="librairies/jquery/jquery.min.js"></script>
         <script src="librairies/bootstrap/js/bootstrap.bundle.min.js"></script>
         <script src="js/script.js"></script>
+
 
     </body>
 
