@@ -3,7 +3,7 @@
     <section id="prez">
         <div class="container">
             <div class="row">
-                <div id="text" class="d-flex col-lg-6 col-sm-12">
+                <div id="text" class="d-flex col-lg-6 col-sm-12 bienvenue">
                     <p class="animated slideInLeft present oswald">Bienvenue sur le site de présentation de la première promotion de la formation developpeur Web du groupe Aformac</p>
                 </div>
 

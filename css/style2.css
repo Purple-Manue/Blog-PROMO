@@ -10,6 +10,12 @@
 .address {
   text-align: center; }
 
+.caroussel {
+  max-height: 250px; }
+
+.iht {
+  max-height: 170px; }
+
 @media screen and (max-width: 1000px) {
   .title {
     font-size: 30px; }
@@ -22,13 +28,25 @@
     text-align: center; }
 
   .caroussel {
-    width: 500px; } }
+    width: 500px; }
+
+  .bienvenue {
+    max-height: 77px; }
+
+  .iht {
+    max-height: 80px; } }
 @media screen and (max-width: 600px) {
   .title {
     font-size: 25px; }
 
   .present {
     font-size: 20px;
-    text-align: center; } }
+    text-align: center; }
+
+  .iht {
+    max-height: 110px; }
+
+  .bienvenue {
+    max-height: 77px; } }
 
 /*# sourceMappingURL=style2.css.map */
