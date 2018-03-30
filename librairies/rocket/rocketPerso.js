@@ -1,4 +1,4 @@
-function rocketcss(rocket, target, theclass) {	
+function rocketcss(rocket, target, theclass) {
 	var rockPar = $(rocket).parent();
 	var tarPar = $(target).parent();
 	var tmpRoc = $('#tmp_roc');
@@ -26,7 +26,7 @@ function rocketcss(rocket, target, theclass) {
 		//Envoie vers les div affichées
 		$(tmpRoc).children().appendTo(tarPar).removeClass("animated zoomOut animated zoomIn");
 		$(tmpTar).children().prependTo(rockPar);
-
+		$("#target .target").off('click');
 		//Destruction du clone
 		cloned.remove();
 
@@ -36,6 +36,7 @@ function rocketcss(rocket, target, theclass) {
 	setTimeout(function () {
 		$(target).addClass("animated zoomOut rocketFlip");
 		setTimeout(function () {
+
 			$(target).removeClass("rocketFlip animated zoomOut").addClass("animated zoomIn");
 		}, 890);
 	}, 1100);
@@ -49,4 +50,5 @@ $(document).ready(function(){
 	$('.stagiaire').click(function(){
 		rocketcss(this, '.target', 'rocketCircle');
 	});
+	$("#target .target").off('click');
 });

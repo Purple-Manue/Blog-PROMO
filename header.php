@@ -9,7 +9,7 @@
         <link rel="stylesheet" href="librairies/fontawesome/web-fonts-with-css/css/fontawesome-all.min.css">
         <link rel="stylesheet" href="librairies/bootstrap/css/bootstrap.min.css">
         <link rel="stylesheet" href="librairies/animate.css">
-        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="css/style.min.css">
         <link rel="stylesheet" href="css/style2.css">
         <link rel="stylesheet" href="librairies/rocket/rocket.min.css">
 
