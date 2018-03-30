@@ -12,13 +12,14 @@
                         <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
                             <div class="carousel-inner">
 
-                                <div class="carousel-item ">
-                                    <img class="img-fluid iht" src="img/html5.png" alt="HTML5"/>
-                                    <p>Le language de base du web</p>
-                                </div>
                                 <div class="carousel-item active">
                                     <img class="img-fluid iht" src="img/ajax-logo.jpg" alt="AJAX"/>
                                     <p>Le language de base du Single Page Application</p>
+                                </div>
+
+                                <div class="carousel-item ">
+                                    <img class="img-fluid iht" src="img/html5.png" alt="HTML5"/>
+                                    <p>Le langage de base du web</p>
                                 </div>
                                 <div class="carousel-item">
                                     <img class="img-fluid iht" src="img/css3.png" alt="CSS3"/>
@@ -56,7 +57,7 @@
                                     <img class="img-fluid iht" src="img/symfony.png" alt="Symfony"/>
                                     <p>Framework PHP</p>
                                 </div>
-                                <div class="carousel-item ">
+                                <div class="carousel-item">
                                     <img class="img-fluid iht" src="img/angular.png" alt="Angular"/>
                                     <p>Framework js pour des applications one-page</p>
                                 </div>

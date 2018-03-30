@@ -25,7 +25,10 @@
 
   .present {
     font-size: 25px;
-    text-align: center; } }
+    text-align: center; }
+
+  .caroussel {
+    width: 500px; } }
 @media screen and (max-width: 600px) {
   .title {
     font-size: 25px; }
