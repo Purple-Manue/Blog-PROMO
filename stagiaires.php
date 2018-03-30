@@ -26,7 +26,7 @@
                             <div class="stagiaire col-4">
                                 <img  class="visuel img-fluid" src="img/photos/mike.jpg" alt="avatar" class="img-fluid avatar" />
                                 <h2 class="nom">ENGBAKA-MOLEKA Michaël</h2>
-                                <h4 class="age">???</h4>
+                                <h4 class="age">30 ans</h4>
                                 <a class="portfolio" href="#">Voir le portfolio</a>
                             </div>
                             <div class="stagiaire col-4">
@@ -90,7 +90,7 @@
                             <div class="stagiaire col-4">
                                 <img  class="visuel img-fluid" src="img/logo.png" alt="avatar" class="img-fluid avatar" />
                                 <h2 class="nom">MEMBRIVE Emmanuelle</h2>
-                                <h4 class="age">???</h4>
+                                <h4 class="age">35 ans</h4>
                                 <a class="portfolio" href="#">Voir le portfolio</a>
                             </div>
                         </div>
