@@ -88,7 +88,7 @@
                                 <a target="blank" class="portfolio" href="#">Voir le portfolio</a>
                             </div>
                             <div class="stagiaire col-6 col-lg-4">
-                                <img  class="visuel img-fluid" src="img/logo.png" alt="avatar" class="img-fluid avatar" />
+                                <img  class="visuel img-fluid" src="img/photos/manu.jpg" alt="avatar" class="img-fluid avatar" />
                                 <h2 class="nom">MEMBRIVE Emmanuelle</h2>
                                 <h4 class="age">35 ans</h4>
                                 <a target="blank" class="portfolio" href="#">Voir le portfolio</a>

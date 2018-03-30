@@ -31,7 +31,7 @@
             <div class="container">
                 <div class="row">
                     <div class="d-flex col-2  align-items-center">
-                        <img id="logo" class="logo bounce" src="img/Tumbeasts.png"/>
+                        <img id="logo" class="logo bounce" src="img/logo.png"/>
                     </div>
                     <div class="jumbotron col-10 text-center">
                       <div class="col-12">
