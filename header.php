@@ -11,6 +11,7 @@
         <link rel="stylesheet" href="librairies/animate.css">
         <link rel="stylesheet" href="css/style.css">
         <link rel="stylesheet" href="css/style2.css">
+        <link rel="stylesheet" href="css/anim.css">
         <link rel="stylesheet" href="librairies/rocket/rocket.min.css">
 
         <!-- JS -->
@@ -30,11 +31,11 @@
             <div class="container">
                 <div class="row">
                     <div class="d-flex col-2  align-items-center">
-                        <img id="logo" class="logo" src="img/Tumbeasts.png"/>
+                        <img id="logo" class="logo bounce" src="img/Tumbeasts.png"/>
                     </div>
                     <div class="jumbotron col-10 text-center">
                       <div class="col-12">
-                        <h1 class="oswald title"> Blog Promo Web Dev Aformac 2017-2018 </h1>
+                        <h1 class="oswald title typewriter"> Blog Promo Web Dev Aformac 2017-2018 </h1>
                       </div>
                       <div class="col-12">
                         <i class="fab fa-angular"></i> <i class="fab fa-js-square"></i> <i class="fab fa-sass"></i> <i class="fas fa-bold"></i> <i class="fab fa-php"></i> <i class="fab fa-css3-alt"></i> <i class="fab fa-html5"></i>
