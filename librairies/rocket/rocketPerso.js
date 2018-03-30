@@ -21,8 +21,8 @@ function rocketcss(rocket, target, theclass) {
 		$(target).prependTo(tmpTar);
 		$(rocket).prependTo(tmpRoc);
 		//Change les class
-		$(target).removeClass("target col-12").addClass("stagiaire col-4");
-		$(rocket).removeClass("stagiaire col-4").addClass("target col-12");
+		$(target).removeClass("target col-12").addClass("stagiaire col-6 col-lg-4");
+		$(rocket).removeClass("stagiaire col-6 col-lg-4").addClass("target col-12");
 		//Envoie vers les div affichées
 		$(tmpRoc).children().appendTo(tarPar).removeClass("animated zoomOut animated zoomIn");
 		$(tmpTar).children().prependTo(rockPar);
