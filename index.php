@@ -1,13 +1,13 @@
 <?php include "header.php"; ?>
 
     <section id="prez">
-        <div class="container mr-5 ml-5">
+        <div class="container">
             <div class="row">
-                <div id="text" class="col-lg-6 col-sm-12">
+                <div id="text" class="d-flex col-lg-6 col-sm-12">
                     <p class="animated slideInLeft present oswald">Bienvenue sur le site de présentation de la première promotion de la formation developpeur Web du groupe Aformac</p>
                 </div>
 
-                <div id="caroussel" class="col-lg-6 col-sm-12 caroussel">
+                <div id="caroussel" class="d-flex col-lg-6 col-sm-12 caroussel">
                     <div class="container text-center">
                         <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
                             <div class="carousel-inner">
