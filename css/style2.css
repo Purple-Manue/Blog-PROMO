@@ -16,6 +16,15 @@
 .iht {
   max-height: 170px; }
 
+@media screen and (max-width: 1920px) {
+  .caroussel {
+    width: 500px; }
+
+  .bienvenue {
+    max-height: 77px; }
+
+  .iht {
+    max-height: 80px; } }
 @media screen and (max-width: 1000px) {
   .title {
     font-size: 30px; }
