@@ -1,69 +1,52 @@
-body {
-  font-family: Roboto, Open sans, sans-serif;
-  height: 100%; }
+.oswald {
+  font-family: "Oswald", sans-serif; }
 
-#banniere {
-  color: #23194b;
-  height: 175px; }
-  #banniere .jumbotron {
-    background-color: unset; }
+.logo {
+  width: 135px; }
 
-#menu {
-  background-color: #23194b;
-  font-weight: 700; }
-  #menu a {
-    color: #ecf0f1; }
-  #menu a:hover {
-    color: #27ae60; }
-  #menu button {
-    color: #ecf0f1; }
+.present {
+  text-align: left; }
 
-#text {
-  padding: 4.5em 0;
-  font-size: 1.5em;
-  color: #7f8c8d; }
+.address {
+  text-align: center; }
 
-#caroussel {
-  color: #bdc3c7;
-  padding: 1em 0; }
-  #caroussel .carousel-item {
-    padding: 4.5em 0; }
+.caroussel {
+  max-height: 250px; }
 
-#target {
-  position: relative;
-  z-index: -5; }
+.iht {
+  max-height: 170px; }
 
-.stagiaire {
-  text-align: center;
-  color: #95a5a6;
-  padding: 1em; }
-  .stagiaire h2 {
-    font-size: 0.9em; }
-  .stagiaire h4 {
-    font-size: 0.7em; }
-  .stagiaire a {
-    font-size: 0.8em;
-    color: #bdc3c7;
-    text-decoration: none; }
-  .stagiaire a:hover {
-    color: #27ae60; }
+@media screen and (max-width: 1000px) {
+  .title {
+    font-size: 30px; }
 
-#main {
-  padding: 1em 0; }
-  #main .jumbotron {
-    background-color: unset; }
+  .logo {
+    width: 100px; }
 
-footer {
-  background-color: #23194b;
-  padding: 1em 0;
-  color: #ecf0f1; }
-  footer iframe {
-    width: 100%;
-    height: auto; }
+  .present {
+    font-size: 25px;
+    text-align: center; }
 
-@media screen and (min-height: 900px) {
-  footer {
-    position: absolute;
-    bottom: 0; } }
+  .caroussel {
+    width: 500px; }
+
+  .bienvenue {
+    max-height: 77px; }
+
+  .iht {
+    max-height: 80px; } }
+@media screen and (max-width: 600px) {
+  .title {
+    font-size: 25px; }
+
+  .present {
+    font-size: 20px;
+    text-align: center; }
+
+  .iht {
+    max-height: 110px; }
+
+  .bienvenue {
+    max-height: 77px; } }
 
 /*# sourceMappingURL=style2.css.map */

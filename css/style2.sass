@@ -1,114 +1,51 @@
-$turquoise: #1abc9c
-$green-sea: #16a085
-$emerald: #2ecc71
-$nephritis: #27ae60
-$peter-river: #3498db
-$belize-hole: #2980b9
-$amethyst: #9b59b6
-$wisteria: #8e44ad
-$wet-asphalt: #34495e
-$midnight-blue: #2c3e50
-$sun-flower: #f1c40f
-$orange: #f39c12
-$carrot: #e67e22
-$pumpkin: #d35400
-$alizarin: #e74c3c
-$pomegranate: #c0392b
-$clouds: #ecf0f1
-$silver: #bdc3c7
-$concrete: #95a5a6
-$asbestos: #7f8c8d
-$aformac: #23194b
+.oswald
+  font-family: 'Oswald', sans-serif
 
+.logo
+  width: 135px
 
+.present
+  text-align: left
 
-body
-    font-family: Roboto, Open sans, sans-serif
-    height: 100%
+.address
+  text-align: center
 
+.caroussel
+  max-height: 250px
 
-#banniere
-    color: $aformac
-    height: 175px
-    .jumbotron
-        background-color: unset
+.iht
+  max-height: 170px
 
+@media screen and (max-width: 1000px)
+  .title
+    font-size: 30px
 
+  .logo
+    width: 100px
 
-#menu
-    background-color: $aformac
-    font-weight: 700
-    a
-        color: $clouds
-
-    a:hover
-        color: $nephritis
-
-    button
-        color: $clouds
-
-
-
-
-#text
-    padding: 4.5em 0
-    font-size: 1.5em
-    color: $asbestos
-
-
-#caroussel
-    color: $silver
-    padding: 1em 0
-
-    .carousel-item
-        padding: 4.5em 0
-
-
-
-#target
-    position: relative
-    z-index: -5
-
-
-.stagiaire
+  .present
+    font-size: 25px
     text-align: center
-    color: $concrete
-    padding: 1em
 
-    h2
-        font-size: 0.9em
+  .caroussel
+    width: 500px
 
-    h4
-        font-size: 0.7em
+  .bienvenue
+    max-height: 77px
 
-    a
-        font-size: 0.8em
-        color: $silver
-        text-decoration: none
+  .iht
+    max-height: 80px       
 
-    a:hover
-        color: $nephritis
+@media screen and (max-width: 600px)
+  .title
+    font-size: 25px
 
+  .present
+    font-size: 20px
+    text-align: center
 
+  .iht
+    max-height: 110px
 
-#main
-    padding: 1em 0
-    .jumbotron
-        background-color: unset
-
-
-
-footer
-    background-color: $aformac
-    padding: 1em 0
-    color: $clouds
-    iframe
-        width: 100%
-        height: auto
-
-
-
-@media screen and (min-height : 900px)
-    footer
-        position : absolute
-        bottom: 0
+  .bienvenue
+    max-height: 77px
