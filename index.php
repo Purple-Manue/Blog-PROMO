@@ -3,7 +3,10 @@
     <section id="prez">
         <div class="container bounce2">
             <div class="row">
-                <div id="text" class="d-flex col-lg-6 col-sm-12 bienvenue">
+                <div id="text" class="col-lg-6 col-sm-12 bienvenue">
+                    <div>
+                        <img class="img-fluid iht" src="img/Aformac-lg.png" />
+                    </div>
                     <p class="animated slideInLeft present oswald bienvenue text-justify">Bienvenue sur le site de présentation de la première promotion de la formation developpeur Web du groupe Aformac</p>
                 </div>
 

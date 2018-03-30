@@ -50,7 +50,7 @@ body {
 
 #target{
   position: relative;
-  /*z-index: -5;*/
+  /*z-index: -1;*/
 }
 
 .stagiaire {
@@ -68,6 +68,7 @@ body {
         font-size:0.8em;
         color:$silver;
         text-decoration:none;
+        display:none;
     }
     a:hover {
         color:$nephritis;

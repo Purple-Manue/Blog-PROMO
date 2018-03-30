@@ -26,6 +26,9 @@ function rocketcss(rocket, target, theclass) {
 		//Envoie vers les div affichées
 		$(tmpRoc).children().appendTo(tarPar).removeClass("animated zoomOut animated zoomIn");
 		$(tmpTar).children().prependTo(rockPar);
+		$('.stagiaire').click(function(){
+			rocketcss(this, '.target', 'rocketCircle');
+		});
 		$("#target .target").off('click');
 		//Destruction du clone
 		cloned.remove();
