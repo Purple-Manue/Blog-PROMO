@@ -29,8 +29,8 @@
         <section id="banniere">
             <div class="container">
                 <div class="row">
-                    <div class="col-2 d-flex align-items-center">
-                        <img id="logo" class="img-fluid" src="img/Tumbeasts.png"/>
+                    <div class="d-flex col-2  align-items-center">
+                        <img id="logo" class="logo" src="img/Tumbeasts.png"/>
                     </div>
                     <div class="jumbotron col-10 text-center">
                       <div class="col-12">
